@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=falgunirawat13" alt="falgunirawat13" /></a> </p>
 
-- 🔭 I’m currently working on **Phishing detection system**
+- 🔭 I’m currently working on **Learning new skillas and languages**
 
 - 🌱 I’m currently learning **Full stack Development**
 
